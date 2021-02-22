@@ -1,0 +1,392 @@
+[
+ {
+  "Batch FP" : "1",
+  "AV. WEIGHT, mg" : 401,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 199,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 3.9,
+  "Assay, %" : 98.4,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "2",
+  "AV. WEIGHT, mg" : 400.9,
+  "AV. THICKNESS, mm" : 4.23,
+  "AV. HARDNESS, N" : 174.5,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 2.9,
+  "Assay, %" : 99.7,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "3",
+  "AV. WEIGHT, mg" : 399.2,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 171,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 5.5,
+  "Assay, %" : 99.7,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "4",
+  "AV. WEIGHT, mg" : 402.1,
+  "AV. THICKNESS, mm" : 4.24,
+  "AV. HARDNESS, N" : 175.6,
+  "Disintegration, min" : 4,
+  "Dosage uniformity, AV" : 5.9,
+  "Assay, %" : 99.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "5",
+  "AV. WEIGHT, mg" : 401.9,
+  "AV. THICKNESS, mm" : 4.23,
+  "AV. HARDNESS, N" : 176,
+  "Disintegration, min" : 4,
+  "Dosage uniformity, AV" : 1.7,
+  "Assay, %" : 98.7,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "6",
+  "AV. WEIGHT, mg" : 402.1,
+  "AV. THICKNESS, mm" : 4.24,
+  "AV. HARDNESS, N" : 168.5,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3.1,
+  "Assay, %" : 100.4,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "7",
+  "AV. WEIGHT, mg" : 400.5,
+  "AV. THICKNESS, mm" : 4.24,
+  "AV. HARDNESS, N" : 185.8,
+  "Disintegration, min" : 4,
+  "Dosage uniformity, AV" : 3.3,
+  "Assay, %" : 99.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "8",
+  "AV. WEIGHT, mg" : 401.6,
+  "AV. THICKNESS, mm" : 4.25,
+  "AV. HARDNESS, N" : 171,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 2.9,
+  "Assay, %" : 98.8,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "9",
+  "AV. WEIGHT, mg" : 400.1,
+  "AV. THICKNESS, mm" : 4.25,
+  "AV. HARDNESS, N" : 172.8,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 2,
+  "Assay, %" : 99.2,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "10",
+  "AV. WEIGHT, mg" : 401.4,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 189.6,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3.3,
+  "Assay, %" : 98.5,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "11",
+  "AV. WEIGHT, mg" : 399.4,
+  "AV. THICKNESS, mm" : 4.27,
+  "AV. HARDNESS, N" : 179.8,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 4.4,
+  "Assay, %" : 98.5,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "12",
+  "AV. WEIGHT, mg" : 400.5,
+  "AV. THICKNESS, mm" : 4.27,
+  "AV. HARDNESS, N" : 197.3,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 11.3,
+  "Assay, %" : 100.6,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "13",
+  "AV. WEIGHT, mg" : 399.8,
+  "AV. THICKNESS, mm" : 4.28,
+  "AV. HARDNESS, N" : 178.5,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 4.6,
+  "Assay, %" : 98.8,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "14",
+  "AV. WEIGHT, mg" : 400.6,
+  "AV. THICKNESS, mm" : 4.28,
+  "AV. HARDNESS, N" : 185.5,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 2.9,
+  "Assay, %" : 99.7,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "15",
+  "AV. WEIGHT, mg" : 397.6,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 183.5,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 3.9,
+  "Assay, %" : 98.9,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "16",
+  "AV. WEIGHT, mg" : 398.9,
+  "AV. THICKNESS, mm" : 4.24,
+  "AV. HARDNESS, N" : 183,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 9.8,
+  "Assay, %" : 99.1,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "17",
+  "AV. WEIGHT, mg" : 401,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 181.8,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 5.9,
+  "Assay, %" : 100.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "18",
+  "AV. WEIGHT, mg" : 402,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 193,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 3,
+  "Assay, %" : 101.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "19",
+  "AV. WEIGHT, mg" : 402.2,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 180.8,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 2.1,
+  "Assay, %" : 100.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "20",
+  "AV. WEIGHT, mg" : 400.2,
+  "AV. THICKNESS, mm" : 4.25,
+  "AV. HARDNESS, N" : 178.5,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 2,
+  "Assay, %" : 99.8,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "21",
+  "AV. WEIGHT, mg" : 400.2,
+  "AV. THICKNESS, mm" : 4.25,
+  "AV. HARDNESS, N" : 181.6,
+  "Disintegration, min" : 4,
+  "Dosage uniformity, AV" : 3.1,
+  "Assay, %" : 100.7,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "22",
+  "AV. WEIGHT, mg" : 401,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 187.5,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 1.9,
+  "Assay, %" : 100,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "23",
+  "AV. WEIGHT, mg" : 400,
+  "AV. THICKNESS, mm" : 4.25,
+  "AV. HARDNESS, N" : 189,
+  "Disintegration, min" : 4,
+  "Dosage uniformity, AV" : 2.7,
+  "Assay, %" : 100.1,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "24",
+  "AV. WEIGHT, mg" : 401.1,
+  "AV. THICKNESS, mm" : 4.29,
+  "AV. HARDNESS, N" : 186,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 4.6,
+  "Assay, %" : 98.5,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "25",
+  "AV. WEIGHT, mg" : 400.2,
+  "AV. THICKNESS, mm" : 4.19,
+  "AV. HARDNESS, N" : 187.3,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 6.7,
+  "Assay, %" : 99,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "26",
+  "AV. WEIGHT, mg" : 399.3,
+  "AV. THICKNESS, mm" : 4.11,
+  "AV. HARDNESS, N" : 185.8,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 3.1,
+  "Assay, %" : 99.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "27",
+  "AV. WEIGHT, mg" : 400.4,
+  "AV. THICKNESS, mm" : 4.23,
+  "AV. HARDNESS, N" : 186,
+  "Disintegration, min" : 5,
+  "Dosage uniformity, AV" : 3.9,
+  "Assay, %" : 99.6,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "28",
+  "AV. WEIGHT, mg" : 399.2,
+  "AV. THICKNESS, mm" : 4.26,
+  "AV. HARDNESS, N" : 179.6,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 1.6,
+  "Assay, %" : 99.5,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "29",
+  "AV. WEIGHT, mg" : 400.5,
+  "AV. THICKNESS, mm" : 4.27,
+  "AV. HARDNESS, N" : 177.9,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 2.4,
+  "Assay, %" : 99.9,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "30",
+  "AV. WEIGHT, mg" : 401,
+  "AV. THICKNESS, mm" : 4.28,
+  "AV. HARDNESS, N" : 187,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3.7,
+  "Assay, %" : 98.5,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "31",
+  "AV. WEIGHT, mg" : 401.7,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 181.8,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3.4,
+  "Assay, %" : 100,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "32",
+  "AV. WEIGHT, mg" : 402.1,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 181.3,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 3.3,
+  "Assay, %" : 99.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "33",
+  "AV. WEIGHT, mg" : 400.1,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 181.6,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3.7,
+  "Assay, %" : 99.4,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "34",
+  "AV. WEIGHT, mg" : 402.1,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 173.8,
+  "Disintegration, min" : 3,
+  "Dosage uniformity, AV" : 2,
+  "Assay, %" : 100.7,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "35",
+  "AV. WEIGHT, mg" : 399.5,
+  "AV. THICKNESS, mm" : 4.21,
+  "AV. HARDNESS, N" : 174,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3,
+  "Assay, %" : 100.3,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "36",
+  "AV. WEIGHT, mg" : 401,
+  "AV. THICKNESS, mm" : 4.22,
+  "AV. HARDNESS, N" : 169,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 5.7,
+  "Assay, %" : 100.2,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "37",
+  "AV. WEIGHT, mg" : 399.4,
+  "AV. THICKNESS, mm" : 4.2,
+  "AV. HARDNESS, N" : 173.9,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 3.1,
+  "Assay, %" : 98.1,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "38",
+  "AV. WEIGHT, mg" : 399.8,
+  "AV. THICKNESS, mm" : 4.21,
+  "AV. HARDNESS, N" : 176.8,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 2.2,
+  "Assay, %" : 100,
+  "Year" : 2020
+ },
+ {
+  "Batch FP" : "39",
+  "AV. WEIGHT, mg" : 400,
+  "AV. THICKNESS, mm" : 4.21,
+  "AV. HARDNESS, N" : 169.6,
+  "Disintegration, min" : 2,
+  "Dosage uniformity, AV" : 1.6,
+  "Assay, %" : 100,
+  "Year" : 2020
+ }
+]
